@@ -1,0 +1,78 @@
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>javac -cp .;jsoup-1.8.3.jar;commons-lan
+g3-3.4.jar htmltoCSV.java
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
+        at htmltoCSV.main(htmltoCSV.java:61)
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\AOIS_1\testJava\src\Test
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 1
+        at htmltoCSV.main(htmltoCSV.java:65)
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>add_values(int[])
+'add_values' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\AOIS_1\testJava\src\Test add_values(int[])
+AOIS_1
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\addition\testJava\src\Test add_values(int[]
+) addition
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Permutation\testJava\src\Test add_values(in
+t[]) permutation
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Multiplication\testJava\src\Test add_values
+(int[]) multiplication
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Inclusive\testJava\src\Test add_values(int[
+]) inclusion
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Exclusive\testJava\src\Test add_values(int[
+]) exclusive
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Inversion\testJava\src\Test add_values(int[
+]) Inversion
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>javac -cp .;jsoup-1.8.3.jar;commons-lan
+g3-3.4.jar htmltoCSV.java
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\AOIS_1\testJava\src\Test add_values(int[])
+AOIS_1
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\addition\testJava\src\Test add_values(int[]
+) addition
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Permutation\testJava\src\Test add_values(in
+t[]) permutation
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Multiplication\testJava\src\Test add_values
+(int[]) multiplication
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Inclusive\testJava\src\Test add_values(int[
+]) inclusion
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Exclusive\testJava\src\Test add_values(int[
+]) exclusive
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>java -cp .;jsoup-1.8.3.jar;commons-lang
+3-3.4.jar htmltoCSV C:\MRtest\AOIS_1\Inversion\testJava\src\Test add_values(int[
+]) Inversion
+
+C:\Users\ps\workspace\HtmlParsetoCSV\src>
